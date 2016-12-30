@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "33CC47411F3C6DFD99E317280F6E78B34CC62D48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F6250E1FBC5AD597D65F854B31048FEE9E00CC3C" : 9223372036854775807,
+    "790E4B96190ED8F14B1921337B3753D441CAA4ED" : 9223372036854775807,
+    "33CC47411F3C6DFD99E317280F6E78B34CC62D48" : 9223372036854775807,
+    "AD88054FBF36B5E23960C3B1A002F0718FB67175" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "517254A6-0326-46E3-8D9D-19F4C5598759",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F6250E1FBC5AD597D65F854B31048FEE9E00CC3C" : "GGGPUShow\/",
+    "790E4B96190ED8F14B1921337B3753D441CAA4ED" : "..",
+    "33CC47411F3C6DFD99E317280F6E78B34CC62D48" : "GGMasonryDemo\/",
+    "AD88054FBF36B5E23960C3B1A002F0718FB67175" : "GGGPUProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GGMasonryDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GGMasonryDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiaoshenmene\/GGMasonryDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33CC47411F3C6DFD99E317280F6E78B34CC62D48"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiaoshenmene\/GGShow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "790E4B96190ED8F14B1921337B3753D441CAA4ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiaoshenmene\/GGGPUProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD88054FBF36B5E23960C3B1A002F0718FB67175"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiaoshenmene\/GGGPUShow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6250E1FBC5AD597D65F854B31048FEE9E00CC3C"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  GGMasonryBasicView.h
 //  GGMasonryDemo
 //
 //  Created by dujia on 30/12/2016.
@@ -8,10 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface GGMasonryBasicView : UIView
 
-@property (strong, nonatomic) UIWindow *window;
 
 
 @end
-

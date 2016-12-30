@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "33CC47411F3C6DFD99E317280F6E78B34CC62D48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "790E4B96190ED8F14B1921337B3753D441CAA4ED" : 9223372036854775807,
+    "33CC47411F3C6DFD99E317280F6E78B34CC62D48" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "96A6835C-5750-4170-AF04-18B219C56832",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "790E4B96190ED8F14B1921337B3753D441CAA4ED" : "..",
+    "33CC47411F3C6DFD99E317280F6E78B34CC62D48" : "GGMasonryDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GGMasonryDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GGMasonryDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiaoshenmene\/GGMasonryDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33CC47411F3C6DFD99E317280F6E78B34CC62D48"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiaoshenmene\/GGShow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "790E4B96190ED8F14B1921337B3753D441CAA4ED"
+    }
+  ]
+}

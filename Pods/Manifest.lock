@@ -1,0 +1,19 @@
+PODS:
+  - GGGPUProject (0.0.1)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - GGGPUProject (from `/Users/sogou/Work/MYGit/GGLibs/GPUDemo/GGGPUProject`)
+  - Masonry
+
+EXTERNAL SOURCES:
+  GGGPUProject:
+    :path: /Users/sogou/Work/MYGit/GGLibs/GPUDemo/GGGPUProject
+
+SPEC CHECKSUMS:
+  GGGPUProject: c27a40b89f1499e513c5e994254324098be537f1
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 67066d66234ed3980ee6d184d8c6943e42406a58
+
+COCOAPODS: 1.2.0.beta.1

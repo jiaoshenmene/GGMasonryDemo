@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  GGMasonryVC.h
 //  GGMasonryDemo
 //
 //  Created by dujia on 30/12/2016.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface GGMasonryVC : UIViewController
 
 @end
-
