@@ -18,6 +18,7 @@
 		A1264A2D1E163CB900D34D50 /* GGMasonryRegister.m in Sources */ = {isa = PBXBuildFile; fileRef = A1264A2C1E163CB900D34D50 /* GGMasonryRegister.m */; };
 		A1264A301E164A1400D34D50 /* GGMasonryExampleVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A1264A2F1E164A1400D34D50 /* GGMasonryExampleVC.m */; };
 		A1264A341E16536500D34D50 /* GGMasonryBasicView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1264A331E16536500D34D50 /* GGMasonryBasicView.m */; };
+		A1264A371E168A7A00D34D50 /* GGExampleConstantsView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1264A361E168A7A00D34D50 /* GGExampleConstantsView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,8 @@
 		A1264A2F1E164A1400D34D50 /* GGMasonryExampleVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GGMasonryExampleVC.m; sourceTree = "<group>"; };
 		A1264A321E16536500D34D50 /* GGMasonryBasicView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GGMasonryBasicView.h; sourceTree = "<group>"; };
 		A1264A331E16536500D34D50 /* GGMasonryBasicView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GGMasonryBasicView.m; sourceTree = "<group>"; };
+		A1264A351E168A7A00D34D50 /* GGExampleConstantsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GGExampleConstantsView.h; sourceTree = "<group>"; };
+		A1264A361E168A7A00D34D50 /* GGExampleConstantsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GGExampleConstantsView.m; sourceTree = "<group>"; };
 		BFD289A9FA5ED1951FE805ED /* Pods-GGMasonryDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GGMasonryDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GGMasonryDemo/Pods-GGMasonryDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		DC41F5C98AA20895824FA467 /* libPods-GGMasonryDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GGMasonryDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -185,6 +188,8 @@
 			children = (
 				A1264A321E16536500D34D50 /* GGMasonryBasicView.h */,
 				A1264A331E16536500D34D50 /* GGMasonryBasicView.m */,
+				A1264A351E168A7A00D34D50 /* GGExampleConstantsView.h */,
+				A1264A361E168A7A00D34D50 /* GGExampleConstantsView.m */,
 			);
 			path = GGMasonryView;
 			sourceTree = "<group>";
@@ -385,6 +390,7 @@
 				A1264A2D1E163CB900D34D50 /* GGMasonryRegister.m in Sources */,
 				A1264A291E16391100D34D50 /* GGMasonryVC.m in Sources */,
 				A12649F21E16306300D34D50 /* main.m in Sources */,
+				A1264A371E168A7A00D34D50 /* GGExampleConstantsView.m in Sources */,
 				A1264A301E164A1400D34D50 /* GGMasonryExampleVC.m in Sources */,
 				A1264A341E16536500D34D50 /* GGMasonryBasicView.m in Sources */,
 			);

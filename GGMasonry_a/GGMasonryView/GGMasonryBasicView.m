@@ -52,24 +52,33 @@
         [greenView makeConstraints:^(MASConstraintMaker *make) {
             make.top.greaterThanOrEqualTo(superview.top).offset(padding);
             make.left.equalTo(superview.left).offset(padding);
-            make.bottom.equalTo(blueView.top).offset(-padding);
+            make.bottom.equalTo(superview.bottom).offset(-padding);
             make.right.equalTo(redView.left).offset(-padding);
             make.width.equalTo(redView.width);
             
             make.height.equalTo(redView.height);
-            make.height.equalTo(blueView.height);
+//            make.height.equalTo(blueView.height);
             
         }];
         
         [redView mas_makeConstraints:^(MASConstraintMaker *make) {
             make.top.equalTo(superview.mas_top).with.offset(padding);
             make.left.equalTo(greenView.mas_right).offset(padding);
-            make.bottom.equalTo(blueView.mas_top).offset(-padding);
+            make.bottom.equalTo(superview.mas_bottom).offset(-padding);
             make.right.equalTo(superview.mas_right).offset(-padding);
             make.width.equalTo(greenView.mas_width);
             
-            make.height.equalTo()
+            make.height.equalTo(greenView.height);
         }];
+        
+//        [blueView mas_makeConstraints:^(MASConstraintMaker *make) {
+//            make.top.equalTo(greenView.mas_bottom).offset(padding);
+//            make.left.equalTo(superview.mas_left).offset(padding);
+//            make.bottom.equalTo(superview.mas_bottom).offset(-padding);
+//            make.right.equalTo(superview.mas_right).offset(-padding);
+//            
+//            make.height.equalTo(@[greenView.mas_height,redView.mas_height]);
+//        }];
         
     }
     return self;

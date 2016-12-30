@@ -9,6 +9,7 @@
 #import "GGMasonryVC.h"
 #import "GGMasonryExampleVC.h"
 #import "GGMasonryBasicView.h"
+#import "GGExampleConstantsView.h"
 
 
 @interface GGMasonryVC ()<UITableViewDelegate , UITableViewDataSource>
