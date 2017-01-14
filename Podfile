@@ -3,6 +3,6 @@ platform :ios, "8.0"
 
 target 'GGMasonryDemo' do
 
-pod ‘GGGPUProject’ , :path => ‘/Users/sogou/Work/MYGit/GGLibs/GPUDemo/GGGPUProject’
+pod ‘GGGPUProject’ , :path => ‘/Users/morikou/work/MyGit/GGLibs/GGGPUProject’
 pod 'Masonry'
 end

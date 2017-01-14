@@ -36,7 +36,7 @@
     self.tableView.dataSource = self;
     [self.view addSubview:self.tableView];
     
-    
+    NSLog(@"width = %f",self.view.frame.size.width);
 }
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
