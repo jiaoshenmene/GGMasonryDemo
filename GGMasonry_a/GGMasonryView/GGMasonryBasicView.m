@@ -24,7 +24,9 @@
 - (id) init
 {
     if (self = [super init]) {
-        
+        NSMutableCharacterSet *set10 = [NSMutableCharacterSet punctuationCharacterSet];
+        NSArray * words = [str componentsSeparatedByCharactersInSet:set10];
+
         
         
         self.backgroundColor = [UIColor whiteColor];
